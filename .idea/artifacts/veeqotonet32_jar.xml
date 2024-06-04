@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="veeqotonet32:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/veeqotonet32_jar</output-path>
+    <root id="archive" name="veeqotonet32.jar">
+      <element id="module-output" name="veeqotonet32" />
+    </root>
+  </artifact>
+</component>
